@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm a developer passionate about building cool pro
 ## About Me
 
 - 💻 I love coding and exploring new technologies
+- 🐧 NixOS enthusiast
 - 🚀 Always learning and improving my skills
 - 🤝 Open to collaboration and new opportunities
 
